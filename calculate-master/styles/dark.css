@@ -8,7 +8,7 @@
   }
   
   ::placeholder {
-    color: rgb(221, 221, 221);
+    color: rgb(97, 71, 71);
   }
   
   .wrapper {
@@ -62,14 +62,13 @@
     margin: 0.2em;
   }
   
-  .first-row,
+   .first-row,
   .second-row,
   .third-row,
   .fourth-row,
   .fifth-row {
     margin-bottom: 4px;
-  }
-  
+  } 
   input[type="text"] {
     background-color: rgb(47, 51, 50);
     width: 222.5px;
@@ -85,12 +84,12 @@
     background-color: rgb(255, 42, 42);
   }
   
-  a {
+  /* a {
     text-decoration: none;
     
-  color: #fff;
-  }
-  
+  color: #b2cf0b;
+  } 
+   */
   #g-icon {
     margin-right: 10px;
   }
